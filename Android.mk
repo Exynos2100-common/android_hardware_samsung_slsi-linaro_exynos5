@@ -15,7 +15,7 @@
 # limitations under the License.
 #
 
-ifeq ($(TARGET_SLSI_VARIANT),linaro)
+ifeq ($(TARGET_SLSI_VARIANT),linaro_13-e850-96)
 ifeq ($(TARGET_BOARD_PLATFORM),exynos5)
 
 # exynos5_dirs := \
